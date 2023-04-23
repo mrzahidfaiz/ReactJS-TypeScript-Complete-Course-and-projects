@@ -1,0 +1,5 @@
+.conatiner_list {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
