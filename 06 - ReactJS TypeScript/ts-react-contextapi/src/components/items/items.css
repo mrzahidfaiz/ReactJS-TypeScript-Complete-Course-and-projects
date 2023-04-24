@@ -1,0 +1,11 @@
+.container_items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 1px 0px 10px 6px lightgray;
+}
+div {
+    margin: 10px;
+    border-radius: 10px;
+}
